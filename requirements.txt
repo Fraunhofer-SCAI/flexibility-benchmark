@@ -1,0 +1,9 @@
+deap
+lmfit
+matplotlib
+numpy
+pandas
+pre-commit
+pymoo
+scikit-posthocs
+setuptools
